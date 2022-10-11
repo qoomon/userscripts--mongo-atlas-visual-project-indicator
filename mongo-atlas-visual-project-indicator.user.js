@@ -2,8 +2,8 @@
 // @name         Mongo Atlas Visual Project Indicator
 // @namespace    https://qoomon.github.io
 // @version      1.0.0
-// @downloadURL  https://github.com/qoomon/userscript-mongo-atlas-visual-project-indicator/raw/main/mongo-atlas-visual-project-indicator.user.js
 // @updateURL    https://github.com/qoomon/userscript-mongo-atlas-visual-project-indicator/raw/main/mongo-atlas-visual-project-indicator.user.js
+// @downloadURL  https://github.com/qoomon/userscript-mongo-atlas-visual-project-indicator/raw/main/mongo-atlas-visual-project-indicator.user.js
 // @description  try to take over the world!
 // @author       Bengt, Christian
 // @match        https://cloud.mongodb.com/v2/*
